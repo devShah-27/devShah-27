@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning MERN Stack<br><br>💬 Ask me about Angular, JavaScript, HTML, SCSS<br><br>📫 Reach me at shahdev149@gmail.com
+🌱 I’m currently learning DSA<br><br>💬 Ask me about Angular, JavaScript, HTML, SCSS<br><br>📫 Reach me at shahdev149@gmail.com
 
 
 ## 🌐 Socials:
